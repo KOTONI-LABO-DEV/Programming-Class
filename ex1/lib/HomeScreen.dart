@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
         title: Text('Home Screen'),
       ),
       body: Center(
-        child: Column(
+        child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             ElevatedButton(
