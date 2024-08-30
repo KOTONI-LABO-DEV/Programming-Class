@@ -12,6 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_hooks: ^0.18.1
+  hooks_riverpod: ^2.0.0
 
 
 
@@ -28,3 +30,5 @@ flutter:
 
   uses-material-design: true
 
+  assets:
+    - assets/karby.png
